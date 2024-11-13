@@ -6,7 +6,8 @@ Preparation of the training environment
 pip install -r requirements.txt  
 ```
 ```
-install pytorch_wavelets git clone https://github.com/fbcotter/pytorch_wavelets cd pytorch_wavelets pip install . Please refer for more details: [https://github.com/fbcotter/pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets)
+install pytorch_wavelets git clone https://github.com/fbcotter/pytorch_wavelets cd pytorch_wavelets pip install . 
+Please refer for more details: [https://github.com/fbcotter/pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets)
 ```
 
 ## Datasets
