@@ -10,8 +10,8 @@ Please refer for more details: [https://github.com/fbcotter/pytorch_wavelets](ht
 
 ## Datasets
 
-VisDrone:https://github.com/VisDrone/VisDrone-Dataset
-DIOR:http://www.escience.cn/people/gongcheng/DIOR.html  or https://pan.baidu.com/s/1Sxo5rWq7F3sq49mjDqZhtg extraction code：RSAI
+VisDrone: https://github.com/VisDrone/VisDrone-Dataset
+DIOR: http://www.escience.cn/people/gongcheng/DIOR.html  or https://pan.baidu.com/s/1Sxo5rWq7F3sq49mjDqZhtg extraction code：RSAI
 
 ## Testing
 
